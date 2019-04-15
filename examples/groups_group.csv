@@ -1,0 +1,3 @@
+"name","mailAddress","users"
+"myusers","myusers@example.com","uid=Administrator,cn=users,dc=uni,dc=dtr"
+"otherusers","otherusers@example.com","uid=gundhart.sch,cn=users,dc=uni,dc=dtr"

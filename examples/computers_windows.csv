@@ -1,0 +1,3 @@
+"name","description","operatingSystem","operatingSystemVersion","network","mac","ip"
+"win001","Notebook 001","Windows","95","cn=default,cn=networks,dc=uni,dc=dtr","52:54:00:61:cc:9e","10.200.3.101"
+"win002","PC 002","Windows","10","cn=schuleeins-10.200.3.0,cn=networks,ou=SchuleEins,dc=uni,dc=dtr","52:54:00:98:3f:a3","10.200.3.102"
