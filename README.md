@@ -57,8 +57,9 @@ mv udm_import /usr/local/sbin/
 * When modifying or deleting a `dn` column or a column with the unique identifier (e.g. `username` / `name`) must be present.
 
 # Limitations
-* Multivalue properties are not yet supported.
-* Must be run as root on the DC master, as it doesn't accept LDAP credentials.
+* Multivalue properties are not yet supported (#1).
+* The CSV dialect is not configurable, sucessful auto-detection is required (#2).
+* Must be run as root on the DC master, as it doesn't accept LDAP credentials (#3).
 
 # Example files
 
